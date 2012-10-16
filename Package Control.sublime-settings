@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": 1350375757,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CTags",
+		"FileDiffs",
+		"GBK Encoding Support",
+		"Maven",
+		"Package Control",
+		"PhpBeautifier",
+		"PhpDox",
+		"PHPUnit Completions",
+		"Python PEP8 Autoformat",
+		"SplitScreen",
+		"SublimeJava",
+		"SublimeLinter",
+		"Xdebug",
+		"ZenCoding"
+	]
+}
